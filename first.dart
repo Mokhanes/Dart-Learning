@@ -6,3 +6,7 @@
 void main(){
   print('Mokhanes..!');
 }
+
+void demo(){
+  print('function');
+}
